@@ -8,6 +8,10 @@
     <title>Document</title>
 </head>
 <body>
-
+    <div class="content">
+        <div class="raw">
+            <h1>Home page</h1>
+        </div>
+    </div>
 </body>
 </html>
